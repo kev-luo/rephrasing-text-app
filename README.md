@@ -1,1 +1,1 @@
-streamlit run main.py
+Used Streamlit to create a simple app that leverages LangChain and OpenAI's llm to rephrase text so that it's formal or informal. Requires OpenAI API key to use.
