@@ -1,1 +1,1 @@
-Used Streamlit to create a simple app that leverages LangChain and OpenAI's llm to rephrase text so that it's formal or informal. Requires OpenAI API key to use.
+Used Streamlit to create a simple app that leverages LangChain and OpenAI's llm to rephrase text so that it's formal or informal. Requires OpenAI API key to use. Based off of Greg Kamradt's [youtube video](https://www.youtube.com/watch?v=U_eV8wfMkXU&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5&index=13&ab_channel=GregKamradt%28DataIndy%29).
